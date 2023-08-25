@@ -1,0 +1,4 @@
+Ejemplos de Hardware:
+- Memoria ROM.
+- Memoria RAM.
+- Memoria Caché

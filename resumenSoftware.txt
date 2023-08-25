@@ -1,0 +1,4 @@
+Ejemplos de Software:
+- Sistema Operativo.
+- Navegador Web.
+- Antivirus.
