@@ -1,0 +1,33 @@
+  246  git remote add origin https://github.com/Pame-b182/CheckpointPamelaCorrea25-08-23.git
+  247  git push -u origin master
+  248  git push origin master
+  249  git touch main.js
+  250  touch main.js
+  251  git index.html
+  252  touch index.html
+  253  git commit -m "commit 01 de Pamela Correa"
+  254  git add .
+  255  git commit -m "commit 01 de Pamela Correa"
+  256  git remote add origin https://github.com/Pame-b182/CheckpointPamelaCorrea25-08-23.git
+  257  git push origin master
+  258  git branch feature
+  259  cd frature
+  260  git checkout feature
+  261  mkdir Hardware
+  262  mkdir Software
+  263  mkdir SeguridadInformatica
+  264  touch Hardware/resumen.txt
+  265  touch Software/resumen.txt
+  266  touch SeguridadInformatica/resumen.txt
+  267  git add .
+  268  git commit -m "commit 02 de Pamela Correa"
+  269  git push origin feature
+  270  git checkout master
+  271  mv main.js resumenHardware.txt
+  272  mv index.html resumenSoftware.txt
+  273  git add .
+  274  git commit -m "commit 03 de Pamela Correa"
+  275  touch comandos.txt
+  276  git status
+  277  git log
+  278  history
